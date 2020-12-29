@@ -10,7 +10,7 @@
   <h3 align="center">Modern Art Generator</h3>
 
   <p align="center">
-    This is a simple python script that generates modern art using Pillow (PIL) Currently, it only generates stills, but will soon generate a stream with constantly shifting images.
+    This is a simple python script that generates modern art using Pillow (PIL). It  Currently, it only generates stills, but will soon generate a stream with constantly shifting images.
     <br />
   </p>
 </p>
